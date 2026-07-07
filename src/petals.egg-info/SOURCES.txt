@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/petals/__main__.py
+src/petals/_init_.py
+src/petals/dice.py
+src/petals/game.py
+src/petals/logic.py
+src/petals.egg-info/PKG-INFO
+src/petals.egg-info/SOURCES.txt
+src/petals.egg-info/dependency_links.txt
+src/petals.egg-info/top_level.txt
+tests/test_game.py
+tests/test_logic.py

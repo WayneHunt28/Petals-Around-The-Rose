@@ -1,0 +1,20 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.pyc
+
+# PyInstaller output
+build/
+dist/
+*.spec
+
+# VS Code Settings
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
