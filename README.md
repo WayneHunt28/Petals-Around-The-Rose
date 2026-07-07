@@ -31,7 +31,7 @@ The rule is not revealed. The player must discover it through observation, logic
 Option 1 — Download and Play (Windows)
  
 No Python installation required.
-1. Download the latest "PetalsGame.exe" from the Releases section.
+1. Download the latest "PetalsAroundTheRose.exe" from the Releases section.
 2. Run the executable.
 3. Start solving the puzzle.
  
