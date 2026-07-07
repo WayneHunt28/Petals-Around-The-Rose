@@ -86,7 +86,6 @@ def build_hud(message=""):
     
     hud.append(f"🎲   Round: {game_state['round']}\n", style="bold cyan")
     hud.append(f"🔥   Streak: {game_state['streak']} ({momentum})\n", style=m_colour)
-    hud.append(f"📊   Performance: {perf}\n", style=p_colour)
     hud.append(f"⚙    Difficulty: {game_state['difficulty']}\n", style="magenta")
     hud.append(f"💡   Hint Level: {game_state['hint_level']}\n", style="cyan")
     
